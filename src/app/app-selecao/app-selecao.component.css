@@ -1,0 +1,22 @@
+:host{
+    display: block;
+    border: 1px solid black;
+    width: 18rem;
+
+}
+
+.header {
+    background-color: #eee;
+    width: 16rem;
+    padding: 8px 16px;
+    margin-bottom: 8px;
+}
+
+h2 {
+    margin: 0;
+}
+
+label{
+    display: block;
+    padding: 8px 16px;
+}
